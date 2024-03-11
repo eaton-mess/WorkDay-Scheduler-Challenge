@@ -22,7 +22,7 @@ This repository should demonstrate the use of a workday schedule assistant, util
 ## Author
 
 Lauren Eaton
-https://github.com/eatontechnology
+https://github.com/eaton-mess
 
 ## License
 
